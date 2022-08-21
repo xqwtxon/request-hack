@@ -1,0 +1,16 @@
+# request files
+logs/*
+request.log
+request.cache
+
+# editor files
+.idea/*
+.git/*
+.editorconfig
+
+# release files
+.releases/*
+.build/*
+.cache/*
+
+
